@@ -80,6 +80,7 @@ $config['emulator'] = 'srp6';
  *  7 = Legion
  *  8 = Battle for Azeroth
  *  9 = Shadowlands
+	* 10 = Dragonflight
  *
 */
 $config['expansion'] = '1';
